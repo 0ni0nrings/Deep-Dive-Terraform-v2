@@ -1,6 +1,6 @@
 # Deep-Dive-Terraform
 
-Welcome to Terraform - Deep Dive version 2.  These exercise files are meant to accompany my course on [Pluralsight](https://app.pluralsight.com/library/courses/deep-dive-terraform/).  The course was developed using version 0.12.x of Terraform.  As far as I know there are no coming changes in 0.13 or newer that will significantly impact the validity of these exercise files.  But I also don't control all the plug-ins, providers, and modules used by the configurations. 
+Terraform - Deep Dive version 2.  These exercise files are meant to accompany course on [Pluralsight](https://app.pluralsight.com/library/courses/deep-dive-terraform/).  The course was developed using version 0.12.x of Terraform.  As far as I know there are no coming changes in 0.13 or newer that will significantly impact the validity of these exercise files.  But I also don't control all the plug-ins, providers, and modules used by the configurations. 
 
 If you're looking for the older version of the course, that is still available on the v1 branch. I am no longer maintaining it, but I thought I would keep it around for posterity.
 
@@ -36,12 +36,9 @@ A special note about module 8. The process has you deploy resources using Jenkin
 
 HashiCorp has released the *Terraform Certified Associate* certification.  You might be wondering if this course fully prepares you for the cert.  **It does not.**  Taking this course along with the [Terraform - Getting Started]((https://app.pluralsight.com/library/courses/terraform-getting-started) course on Pluralsight will meet most of the learning objectives for the certification, but there is no substitute for running the software on your own and hacking away.
 
-I have coauthored a certification guide which you can find on [Leanpub](https://leanpub.com/terraform-certified/).  This is an unofficial guide, but I believe in concert with the Pluralsight courses you will be in a good position to sit the exam.
+A certification guide which you can find on [Leanpub](https://leanpub.com/terraform-certified/).  This is an unofficial guide, but I believe in concert with the Pluralsight courses you will be in a good position to sit the exam.
 
 ## Conclusion
 
 I hope you enjoy taking this course as much as I did creating it.  I'd love to hear feedback and suggestions for revisions.
 
-Thanks and happy automating!
-
-Ned
